@@ -1,0 +1,22 @@
+[
+  {
+    "first_name": "John",
+    "surname": "Smith",
+    "speciality": "Internal Med."
+  },
+  {
+    "first_name": "Jone",
+    "surname": "Smith",
+    "speciality": "Pediatrics"
+  },
+  {
+    "first_name": "Jone",
+    "surname": "Carlos",
+    "speciality": "Cardiology"
+  },
+  {
+    "first_name": "Mohamed",
+    "surname": "Hamid",
+    "speciality": "GP"
+  }
+]

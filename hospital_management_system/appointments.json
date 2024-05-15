@@ -1,0 +1,11 @@
+[
+  {
+    "patient": {
+      "first_name": "Mike",
+      "surname": "Jones"
+    },
+    "doctor": "John Smith",
+    "date": "2024-01-23"
+  }
+  
+]

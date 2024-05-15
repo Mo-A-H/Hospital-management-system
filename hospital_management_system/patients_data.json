@@ -1,0 +1,49 @@
+{
+  "active_patients": [
+    {
+      "first_name": "Mike",
+      "surname": "Jones",
+      "age": 37,
+      "mobile": "07555551234",
+      "postcode": "L2 2AB",
+      "symptoms": [
+        "pale",
+        "green"
+      ],
+      "doctor": "Mohamed Hamid"
+    },
+    {
+      "first_name": "Sara",
+      "surname": "Smith",
+      "age": 20,
+      "mobile": "07012345678",
+      "postcode": "B1 234",
+      "symptoms": [
+        "pale"
+      ],
+      "doctor": "Jone Smith"
+    },
+    {
+      "first_name": "mo",
+      "surname": "Hamid",
+      "age": 25,
+      "mobile": "09087654321",
+      "postcode": "B23 5PG",
+      "symptoms": [
+        "sick"
+      ],
+      "doctor": "Mohamed Hamid"
+    }
+  ],
+  "discharged_patients": [
+    {
+      "first_name": "David",
+      "surname": "Smith",
+      "age": 15,
+      "mobile": "07123456789",
+      "postcode": "C1 ABC",
+      "symptoms": [],
+      "doctor": null
+    }
+  ]
+}
